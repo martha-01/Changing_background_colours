@@ -1,4 +1,4 @@
-let body = document.querySelector("#body");
+let body = document.querySelector("body");
 // let container = document.querySelector(".container");
 let red = document.querySelector("#red");
 let yellow = document.querySelector("#yellow");
