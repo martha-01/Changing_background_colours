@@ -27,7 +27,7 @@ div.container {
 }
 
 h1 {
-    color: white;
+    color: yellow;
     margin: 0.6rem;
 }
 
@@ -36,7 +36,7 @@ p {
     text-align:center;
     padding: 0.3rem;
     margin: 0.6rem;
-    color: white;
+    color: yellow;
     background-color: rgb(127,128,129);
     border-radius: 0.25rem;
 
